@@ -30,9 +30,7 @@ insights that support data‑driven decision making.
   
 ## 📸Power BI Preview.
 
-![Power BI Photo]()
-
-
+![Power BI Photo](PowerBIimage.png)
 
 ## ▶️ How to Use
 
@@ -50,7 +48,4 @@ Portfolio demonstration
 ## 🧑‍💻Author
 
 Jenish Patel
-
-For Business Inquery:-
-Jenupatel281124@gmail.com
 
