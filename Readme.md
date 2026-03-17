@@ -26,6 +26,9 @@ insights that support data‑driven decision making.
 
 -   **Power BI Desktop**
 -   **Power Query**
+## 📸Power BI Preview.
+
+
 
 ## ▶️ How to Use
 
